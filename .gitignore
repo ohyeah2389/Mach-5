@@ -17,6 +17,7 @@ Art
 *.zip
 *.tmp
 Build
+Releases
 
 # Workspace/IDE files
 *.code-workspace
