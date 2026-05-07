@@ -1,0 +1,44 @@
+{
+  "name": "Mach 5",
+  "brand": "Racer Motors",
+  "description": null,
+  "tags": ["rwd", "race", "manual", "vintage"],
+  "class": "race",
+  "specs": {
+    "bhp": "411 bhp",
+    "torque": "375 Nm",
+    "weight": "575 kg",
+    "topspeed": ">400 km/h",
+    "acceleration": "-- s 0-100",
+    "pwratio": "1.4 kg/hp"
+  },
+  "torqueCurve": [
+    [0, 43.5],
+    [0, 43.5],
+    [1000, 134.8],
+    [4000, 174],
+    [8000, 339.3],
+    [10000, 339.3],
+    [12000, 348],
+    [14000, 356.7],
+    [15000, 343.6],
+    [16000, 321.9]
+  ],
+  "powerCurve": [
+    [0, 0],
+    [0, 0],
+    [1000, 18.9],
+    [4000, 97.7],
+    [8000, 381.2],
+    [10000, 476.5],
+    [12000, 586.4],
+    [14000, 701.3],
+    [15000, 723.9],
+    [16000, 723.3]
+  ],
+  "country": "Japan",
+  "author": "ohyeah2389",
+  "version": "0.2",
+  "url": null,
+  "year": 1967
+}
