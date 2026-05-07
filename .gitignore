@@ -1,0 +1,23 @@
+# Pre-reset Backup
+Backup
+
+# Art folder (not open source)
+Art
+
+# Art files (not open source)
+*.ksanim
+*.kn5
+*.dds
+*.jpg
+*.knh
+*.vao-patch
+*.bank
+
+# Build artifacts
+*.zip
+*.tmp
+Build
+
+# Workspace/IDE files
+*.code-workspace
+/.vscode
